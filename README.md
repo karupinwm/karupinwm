@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm curently working on project implementation and software develop.
+I'm curently learning Paas and algorithm design.
+Ask mee about this project and working experience, I have so many story.
+I am often in a trance, like to look at some useless things.
+But I still love a verb, that's the only thing that I always respect.
+Get to know me, not the chance you have.
 <!--
 **karupinwm/karupinwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
